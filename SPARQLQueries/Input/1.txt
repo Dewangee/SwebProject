@@ -1,0 +1,10 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+SELECT ?wine ?location ?variety ?winery ?taster ?price 
+WHERE { 
+	?wine :hasLocation ?location . 
+	?wine :belongsToVariety ?variety . 
+	?wine :comesFromWinery ?winery . 
+	?wine :hasTaster ?taster . 
+	?wine :hasPrice ?price . 
+	FILTER (?price<50) 
+}

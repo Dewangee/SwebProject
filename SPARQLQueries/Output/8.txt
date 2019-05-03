@@ -1,0 +1,400 @@
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/100 Percent Wine
+wineyard - "All Profits to Charity"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/100 Percent Wine
+wineyard - "All Profits to Charity"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/1000 Stories
+wineyard - "Bourbon Barrel Aged Batch No 13"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Ribbon Ridge
+wineyard - "Wedding Block"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Estate Grown"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Chalone
+wineyard - "Rose of"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Sparkling"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Big Rock Reserve"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Daybreak Signature Solera Library Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Ruby Cuvee"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyard Lone Boulder Ridge"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Wild Horse Peak Mountain Vineyards 4-Block Blend"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Collection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Winemaker's Signature Selection"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Dry"
+
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/South Coast
+wineyard - "Brut"
+

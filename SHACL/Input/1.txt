@@ -1,0 +1,21 @@
+@prefix : <http://www.vintagewinesellers.com/tasting/reviews/> . 
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> . 
+@prefix sh: <http://www.w3.org/ns/shacl#> . 
+:shape1 
+	a sh:NodeShape ; 
+	sh:targetClass :Taster ; 
+	sh:property [ 
+		sh:path :hasTwitterHandle ; 
+		sh:minCount 1 ; 
+		sh:maxCount 11 ; 
+		sh:maxLength 35 ; 
+		sh:minLength 1 ; 
+		sh:datatype xsd:string ; 
+		sh:severity sh:Warning ; 
+	] ; 
+	sh:property [ 
+		sh:path :isTasterOf ; 
+		sh:class :WineID ; 
+		sh:nodeKind sh:IRI ; 
+	] .
+		

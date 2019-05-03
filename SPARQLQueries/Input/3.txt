@@ -1,0 +1,10 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+PREFIX schema: <http://schema.org/>
+SELECT ?wine ?taster ?reviewtitle ?reviewbody 
+WHERE { 
+	?wine :receivedReview ?review . 
+	?taster :gaveReview ?review . 
+	?review :hasReviewTitle ?reviewtitle . 
+	?reviewtitle schema:reviewBody ?reviewbody . 
+}
+LIMIT 100

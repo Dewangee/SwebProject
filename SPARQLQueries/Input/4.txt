@@ -1,0 +1,11 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+SELECT ?wine ?province ?variety ?taster ?points ?twitterhandle  
+WHERE { 
+	?wine :hasProvince ?province . 
+	?wine :belongsToVariety ?variety . 
+	?wine :receivedReview ?review . 
+	?taster :gaveReview ?review . 
+	?taster :gavePoints ?points . 
+	?taster :hasTwitterHandle ?twitterhandle . 
+	FILTER (?points > 90)
+}

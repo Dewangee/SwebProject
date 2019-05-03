@@ -1,0 +1,8 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+SELECT ?wine ?winecellar ?region 
+WHERE { 
+	?wine :hasRegion ?region . 
+	?wine :comesFromWinery ?winery . 
+	?winery ^rdfs:subClassOf|:hasWineCellar ?winecellar . 
+}
+LIMIT 100

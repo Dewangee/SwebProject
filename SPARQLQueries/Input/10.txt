@@ -1,0 +1,12 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+ASK  
+WHERE { 
+	SELECT ?taster (SUM(?price) as ?sum) 
+	WHERE { 
+		?taster :isTasterOf ?wine .  
+		?wine :hasCountry ?country . 
+		?wine :hasPrice ?price . 
+	} 
+	GROUP BY ?taster 
+	HAVING (SUM(?price) > 1000) 
+}

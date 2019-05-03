@@ -1,0 +1,500 @@
+wine - http://www.vintagewinesellers.com/tasting/reviews/122898
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/100 Percent Wine 2012 All Profits to Charity Red (California)
+reviewbody - "Juicy and fresh  this deeply colored wine offers lots of grapey  berry-like aromas and equally fruity and vivid flavors. It has a touch of sweetness and a soothing  smooth texture. The name refers to the winery's pledge to give 100% of profits to charity."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/81087
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/100 Percent Wine 2014 All Profits to Charity Sauvignon Blanc (California)
+reviewbody - "Herbaceous in aroma  dry and lean on the palate  this wine offers refreshment more than flavor. Light bodied  it has a tangy texture."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/77996
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/1000 Stories 2014 Bourbon Barrel Aged Batch No 13 Zinfandel (California)
+reviewbody - "Exotically fruity with an enticing floral character  this full-bodied  almost-sweet wine has lots to appreciate. It starts with a complex bouquet of black currant  cedar and ripe black cherry and continues on the palate with ripeness and concentration  without a lot of tannin."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/32733
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/12C Wines 2012 Beckstoffer Vineyard  Georges III Cabernet Sauvignon (Rutherford)
+reviewbody - "A 100% varietal wine from a prime Beckstoffer vineyard in the heart of the appellation  this aged in 100% new French oak. A robust  full-throttled wine  it's smoky in tar and baked fruit that could use some time in cellar to further develop the layers of cedar and blackberry."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/54961
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/12C Wines 2012 G3 Beckstoffer Vineyard Georges III Cabernet Sauvignon (Rutherford)
+reviewbody - "This lip-smackingly complex  pure varietal wine from a prime Napa Valley location is awash in floral chewing tobacco and roasted coffee aromas. These expand on the palate into cedar and black currant  remaining softly alluring through a base of power. Decant or cellar through 2020-2022."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/88443
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/12C Wines 2013 Beckstoffer Vineyard Georges III Cabernet Sauvignon (Rutherford)
+reviewbody - "Pungently earthy in forest and truffle  this is a soft  medium-built wine with a density beneath it  the palate explosively juicy in blackberry and currant. Balanced despite a significant concentration of savory fruit  it'll pair well at the table with seared and grilled meats."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/90772
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/12C Wines 2013 Beckstoffer Vineyard Georges III G3 Cabernet Sauvignon (Rutherford)
+reviewbody - "This is made to be a reserve-level wine  crafted from a combination of blocks within the famous vineyard. Succulent boysenberry and blackberry impress from first sip  before a juiciness of cherry and strawberry pile in. Expansive and powerful  with tremendous body and texture  it ends with a persistence of black pepper. Drink now through 2023."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/67655
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/12C Wines 2014 G3 Beckstoffer Vineyard Georges III Cabernet Sauvignon (Rutherford)
+reviewbody - "Sanguine in pomegranate and red currant  this dark  effusive wine is generous in body and flavor  a tangle of vanilla  blueberry and cassis liqueur. Integrated in oak  the tannins take on a pillowy  plush quality that provides polish and focus to the wine. Enjoy from 2024-2034."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/119950
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2010 The Reserve Red (Horse Heaven Hills)
+reviewbody - "This blend of 46% Cabernet Sauvignon  24% Malbec  18% Merlot and 12% Cabernet Franc  brings barrel aromas of cocoa and chocolate that complement the cherry and plum notes. The flavors are soft and supple with some firmness to the tannins that still need some time to soften."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/100235
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2011 Hot To Trot Red (Columbia Valley (WA))
+reviewbody - "Merlot  Cabernet and Syrah form the core of this wildly successful red blend from Ste. Michelle Wine Estates. Soft and juicy  it's packed with flavors of vanilla  pipe tobacco and cola  while keeping the stuffing and structure of a substantial wine. An appealing red blend  especially for consumers new to wine."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/66222
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2011 Hot To Trot Red (Columbia Valley (WA))
+reviewbody - "Merlot  Cabernet and Syrah form the core of this wildly successful red blend from Ste. Michelle Wine Estates. Soft and juicy  it's packed with flavors of vanilla  pipe tobacco and cola  while keeping the stuffing and structure of a substantial wine. An appealing red blend  especially for consumers new to wine."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/2455
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2011 The Reserve Merlot (Horse Heaven Hills)
+reviewbody - "Aged for 30 months in French and American oak (90% new)  this wine brings pleasing notes of cafe au lait  pencil lead  cashew and woodspice. Rich coffee and chocolate flavors are backed by a silky feel  with the wood playing prominent role."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/83646
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2011 The Reserve Red (Horse Heaven Hills)
+reviewbody - "Near equal parts Cabernet Sauvignon  Merlot and Malbec with a healthy dash of Petit Verdot providing the frame  it displays notes of toast  coffee  chocolate  plum and woodspice with abundant blue fruit and coffee flavors."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/75261
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2012 Hot To Trot White (Washington)
+reviewbody - "No specific blend is listed on this delicious wine--in the past it's been Chardonnay  Pinot Gris and Semillon. Luscious  ripe fruit flavors of grapefruit  melon and loads of fresh pear combine to show a wonderfully fresh and tasty white wine. The acids lift up the brightness  and this round and fruity style is a can't miss proposition."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/72131
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2012 Limited Release Kentucky Derby Red (Columbia Valley (WA))
+reviewbody - "Comprised of 62% Merlot  30% Cabernet Sauvignon and 8% Syrah  this wine brings aromas of coffee  herbs and dark fruit. The fruit and barrel flavors are candy-bar sweet but still retain a sense of deftness."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/56624
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2012 The Reserve Cabernet Franc (Horse Heaven Hills)
+reviewbody - "This wine brings aromas of herbs  black cherry  chocolate and flowers. The palate is medium bodied  showing a mixture of fruit and barrel flavors that include vanilla  cocoa and cherry."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/101738
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2012 The Reserve Red (Horse Heaven Hills)
+reviewbody - "A blend of Merlot  Cabernet Sauvignon and Cabernet Franc  this wine offers aromas of dried herbs  milk chocolate and raspberries. It's silky in feel with polished tannins and a spice-filled finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/2203
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 Hot to Trot Red (Columbia Valley (WA))
+reviewbody - "A blend of predominantly Merlot and Syrah  this wine offers aromas of raspberries  herbs  plum and vanilla. The flavors are sweet  plump and juicy  delivering a lot of bang for the buck."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/33476
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 Hot to Trot White (Washington)
+reviewbody - "Largely Chardonnay and Riesling  this wine offers aromas that include peach  pear  melon and almond. It's full in feel  lightly sweet with citrus and stone-fruit flavors that linger."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/92768
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 Limited Release Kentucky Derby Red (Columbia Valley (WA))
+reviewbody - "This is a blend of Merlot  Cabernet Sauvignon and Syrah. Aromas of barrel spice  herb and coffee lead to easy-going vanilla and coffee flavors. Barrel notes are dominant but it brings appeal."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/2571
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 Reserve M-S-G-V Red (Horse Heaven Hills)
+reviewbody - "Mourvedre and Syrah each make up a third of this wine with the rest Grenache and Viognier. The latter (12%) shows itself prominently on the aromas  with perfumed notes of purple flowers and orange peel that are followed by purple fruit  vanilla  coffee and spice. The palate offers elegant  yet sweet and flavorful pomegranate and cranberry flavors with pleasing spice accents."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108200
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Cabernet Franc-Merlot (Horse Heaven Hills)
+reviewbody - "Cabernet Franc makes up almost two-thirds of this wine  with the rest Merlot. Aromas of vanilla  cocoa  baking spice  flowers and cherry are followed by plentiful dark-fruit flavors and a tart finish  with the tannins providing a squeeze."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/56652
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Cabernet Sauvignon (Horse Heaven Hills)
+reviewbody - "Dried herb and wood spice aromas are followed by sappy black fruit flavors backed by a light squeeze of tannins. There's no mistaking the warm vintage it comes from."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/57235
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Cabernet Sauvignon (Horse Heaven Hills)
+reviewbody - "Dried herb and wood spice aromas are followed by sappy black fruit flavors backed by a light squeeze of tannins. There's no mistaking the warm vintage it comes from."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/50429
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Chardonnay (Horse Heaven Hills)
+reviewbody - "The new American oak barrel fermentation and aging steals the show on this wine. Notes of vanilla and woodspice overpower the variety's melon and apple aromas and flavors. There are some good things going on but it's hard to get at them."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/62533
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Merlot (Horse Heaven Hills)
+reviewbody - "Aromas of plum  blueberry  vanilla and spice are followed by plush  ample fruit flavors. It brings a lot of appeal  with baking-spice flavors lingering on the finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/80995
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Pinot Gris (Horse Heaven Hills)
+reviewbody - "Aromas suggest green apple and melon. This wine drinks dry with a lightly spritzy feel but the flavor concentration seems lacking."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39752
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Red (Horse Heaven Hills)
+reviewbody - "Merlot and Cabernet Sauvignon take the lead on this blend  with the balance Cabernet Franc and Malbec. Aromas of toast  vanilla and red and black fruit are followed by generous fruit and barrel flavors."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/52842
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2013 The Reserve Syrah (Horse Heaven Hills)
+reviewbody - "Aromas of blue fruit intermingle with vanilla and wood spice. The palate is lush and forward  bringing a lot of enjoyment."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/24156
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 Hot to Trot Red (Columbia Valley (WA))
+reviewbody - "Aromas of toast  char and black fruit are followed by lightly sweet blue and black fruit flavors. It goes down easy."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/26499
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 Limited Release Kentucky Derby Red (Columbia Valley (WA))
+reviewbody - "Aromas are light  with notes of matchstick  herb and cherry. The cherry and plum flavors are sweet and generous  providing easy-drinking appeal."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/8183
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 Limited Release Kentucky Derby Red (Columbia Valley (WA))
+reviewbody - "Aromas are light  with notes of matchstick  herb and cherry. The cherry and plum flavors are sweet and generous  providing easy-drinking appeal."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39753
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 Stampede Red (Columbia Valley (WA))
+reviewbody - "This wine is a unique blend of Syrah  Merlot  Viognier  Cabernet Sauvignon and Mourvedre. It seems locked up  with aromas of pickling spices  smoke  berry and vanilla that are followed by broad blue and black-fruit flavors that provide appeal."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/64437
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 The Reserve Chardonnay (Horse Heaven Hills)
+reviewbody - "This wine is made in a full-throttle style  with aromas of toast  melted butter  spice and vanilla--the latter from the 100% new American oak aging. It's creamy in feel  with citrus and stone-fruit flavors on the finish. The barrel influence is a bit obvious but it's hard to deny its appeal."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/8354
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 The Reserve G-M-V Red (Horse Heaven Hills)
+reviewbody - "Principally Grenache (55%) and Mourvedre (43%) topped off with a pinch of Viognier  this wine brings barrel-forward aromas of vanilla  toast and char along with red fruit. The cherry and plum flavors are lush  full and creamy but they struggle to get beyond the oak treatment."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/83601
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 The Reserve Rose of Malbec (Horse Heaven Hills)
+reviewbody - "Electric-pink in color  that offers aromas of cranberries and watermelon that lead to dry fruit flavors with a tart finish. It doesn't entirely stand up on its own but should fit in nicely at the dinner table."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/6542
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 The Reserve Sauvignon Blanc (Horse Heaven Hills)
+reviewbody - "Grass  herb and passion-fruit aromas are followed by citrus and tropical flavors. It's pleasant but the concentration seems lacking."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/117288
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2014 The Reserve Syrah (Horse Heaven Hills)
+reviewbody - "Smoke  char and dark fruit aromas are followed by full-bodied blackberry flavors. The tannins bring some grittiness that holds it back."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/34191
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2015 Hot to Trot White (Columbia Valley (WA))
+reviewbody - "Aromas of Bosc pear and candle wax lead to off-dry fruit flavors. It brings some easy-drinking appeal but lacks a sense of clarity."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/17361
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2015 Reserve Late Harvest Viognier (Horse Heaven Hills)
+reviewbody - "The aromas are somewhat light considering the variety and style  with notes of orange peel and flower. It drinks sweet  finishing with orange flavors. It's enjoyable but the concentration doesn't seem all there."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/34192
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2015 The Reserve Dry Gewurztraminer (Horse Heaven Hills)
+reviewbody - "Aromas of white flowers  lychee and grapefruit peel lead to dry fruit flavors that seem to lack concentration  with a bitter note on the finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/69074
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2015 The Reserve Rose of Grenache (Horse Heaven Hills)
+reviewbody - "This watermelon-colored wine brings aromas of strawberry and herb. It drinks dry with a fleshy feel to the fruit flavors  needing a bit more acidity to stand it up."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/97560
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands 2015 The Reserve Sauvignon Blanc (Horse Heaven Hills)
+reviewbody - "Reticent aromas of kiwi and herb are followed by tart  medium bodied citrus flavors. The concentration isn't as dense as it could be."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/24158
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Rose (Columbia Valley (WA))
+reviewbody - "Lemon peel  brioche and raspberry aromas take the lead on this pale pink wine. It drinks quite sweet for a brut but still delivers enjoyment with its raspberry flavors."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108391
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Light aromas of lemon  apple  pineapple  toast and spice lead to just off-dry flavors. It drinks a little sweet for a brut but still delivers enjoyment--a straightforward crowd pleaser."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108391
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Notes of apple  spice and brioche lead to tart citrus flavors. A lively mousse keeps the attention high."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/119847
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Light aromas of lemon  apple  pineapple  toast and spice lead to just off-dry flavors. It drinks a little sweet for a brut but still delivers enjoyment--a straightforward crowd pleaser."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/119847
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Notes of apple  spice and brioche lead to tart citrus flavors. A lively mousse keeps the attention high."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39342
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Light aromas of lemon  apple  pineapple  toast and spice lead to just off-dry flavors. It drinks a little sweet for a brut but still delivers enjoyment--a straightforward crowd pleaser."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39342
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/14 Hands NV Brut Methode Champenoise Sparkling (Columbia Valley (WA))
+reviewbody - "Notes of apple  spice and brioche lead to tart citrus flavors. A lively mousse keeps the attention high."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/67189
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/18401 Cellars 2013 Proprietary Red (Walla Walla Valley (OR))
+reviewbody - "This is the inaugural release from this Oregon-based winery  with the fruit coming from Loess and Seven Hills vineyards. A blend of Cabernet Sauvignon (54%)  Merlot (38%) and Petit Verdot  it offers laromas of pencil box  high-toned flowers  bittersweet chocolate  herbs and barrel spices. The flavors show depth and intensity as well as exquisite balance and length."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/73229
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/18401 Cellars 2013 Proprietary Red (Walla Walla Valley (OR))
+reviewbody - "This is the inaugural release from this Oregon-based winery  with the fruit coming from Loess and Seven Hills vineyards. A blend of Cabernet Sauvignon (54%)  Merlot (38%) and Petit Verdot  it offers laromas of pencil box  high-toned flowers  bittersweet chocolate  herbs and barrel spices. The flavors show depth and intensity as well as exquisite balance and length."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/99783
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/18401 Cellars 2014 Proprietary Red (Walla Walla Valley (WA))
+reviewbody - "A blend of Cabernet Sauvignon (55%)  Merlot (36%) and Petit Verdot from the Seven Hills and Loess vineyards  aromas of dried high-toned herb  cocoa and barrel spice intermingle on a wine that has yet to fully reveal its charms. The palate offers cranberry and dark-cherry flavors that create an exquisite sense of freshness and balance."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/45541
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/29 & Oak Wines 2012 Proprietary Red (Napa Valley)
+reviewbody - "This blend of 39% Petite Sirah  35% Zinfandel  19% Cabernet Sauvignon and 7% Cabernet Franc spent two years in barrel  allowing the flavors to mesh. Juicy acidity marks a soft  approachable palate of sugarplum and kirsch  sure to please a crowd with its full  plush texture."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110539
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/29 & Oak Wines 2013 Proprietary Red (Napa Valley)
+reviewbody - "Half Cabernet Sauvignon  and a quarter each of Cabernet Franc and Merlot  this wine is a smoky blend that's gamy and feral  while also pretty on the nose in violet and bramble. Red currant and red cherry fill out the midpalate with tart fruit."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39400
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/29 & Oak Wines 2013 Reserve Cabernet Sauvignon (Oakville)
+reviewbody - "A handful of Pritchard Hill Petit Verdot adds color and vibrancy to this impressive wine  sinewy in leather  black pepper and robust cigar. Currant and cedar highlights make for a classic profile  with firm  integrated tannin in support. This wine should do well in the cellar  finding its peak between 2021 and 2023."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/99030
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Hawk 2011 Limited Reserve Tempranillo (Southern Oregon)
+reviewbody - "This tasty red has clean  ripe fruit notes and a pretty  chocolaty finish. The tannins are supple and the 18 months spent in mixed oak adds a touch of mocha. Little suggests that this is a specific variety rather than a pleasant  generic red wine."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/39188
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Hawk 2014 Limited Reserve Tempranillo (Southern Oregon)
+reviewbody - "All estate fruit goes into this reserve  which was tasted a few months ahead of its official release. It's tight and herbal  with stiff tannins streaked with tobacco and vanilla. Give it another year or two of bottle age  and drink 2018 to 2022."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/72010
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Hawk 2014 Limited Reserve Tempranillo (Southern Oregon)
+reviewbody - "All estate fruit goes into this reserve  which was tasted a few months ahead of its official release. It's tight and herbal  with stiff tannins streaked with tobacco and vanilla. Give it another year or two of bottle age  and drink 2018 to 2022."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/41565
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Hawk NV Red-Tail Red v.2 Red (Rogue Valley)
+reviewbody - "This Bordeaux blend is 60% Cabernet Sauvignon  30% Merlot and 5% each Cab Franc and Petit Verdot. Dry and astringent  it opens with a burst of pretty cherry fruit. As it breathes  some green-bean aromas and flavors develop. Best to drink this by the end of 2017."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/92302
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Plank 2013 Cold Smoke Viognier-Chardonnay (California)
+reviewbody - "Nearing brown in color  this blend of 60% Viognier and 40% Chardonnay is reminiscent of a Old Fashioned cocktail  with orange rind and bourbon notes as well as walnut oil and quinine aromas. A strong hazelnut-oil character shows on the rougher palate  which is thick and oily with dried apricot and more orange peel."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/45491
+taster - http://www.vintagewinesellers.com/tasting/reviews/Jim Gordon
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Plank 2013 Solstice Viognier (El Dorado)
+reviewbody - "A deep gold-orange color and floral aromas lead to rich  broad peach and apricot flavors that are moderately sweet and nicely concentrated. Lighter than some late-harvest wines  it has more vivid fruit and better balance than others."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/126532
+taster - http://www.vintagewinesellers.com/tasting/reviews/Matt Kettmann
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/2Plank 2014 Bonsall Cabernet Sauvignon (San Diego County)
+reviewbody - "This bottling shows great promise for the San Diego region's potential. Lavish and rich blackberry aromas are enhanced by cocoa dust on the nose. Savory flavors of pepper and soy give depth to the blackberry and roasted-meat flavors. Tannins are firm but gracious."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105803
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3 Badge Beverage 2014 Gehricke Chardonnay (Russian River Valley)
+reviewbody - "This wine reminds one of salty apple pie  with big  drying oak and a whiff of potpourri. Given nine months in 25% new French oak  it holds on to that toasty taste through the finish  with a sprinkling of bitter lemon."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/123373
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3 Horse Ranch Vineyards 2011 Barrel Select Reserve Merlot (Washington)
+reviewbody - "Aromas of sweet barrel spices  dried flowers  herbs and dark fruit lead to tart cherry flavors and a cranberry-filled finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/87396
+taster - http://www.vintagewinesellers.com/tasting/reviews/Sean P. Sullivan
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3 Horse Ranch Vineyards 2012 Barrel Select Reserve Cabernet Sauvignon-Merlot-Petit Verdot Red (Washington)
+reviewbody - "This brooding wine shows notes of tire rubber  herbs  dark chocolate and blue fruit. It's elegant  with mouthwatering acids and grainy tannins."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/118056
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3 Steves Winery 2008 Reserve Cabernet Sauvignon (Livermore Valley)
+reviewbody - "This wine has very little going on aromatically and tastes slightly burnt."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/5945
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3Fools 2008 Fools Gold Pinot Noir (Willamette Valley)
+reviewbody - "Very light  this is scented with fresh bread dough and shows a cherry soda pop flavor. Pretty  light and simple on entry  it feels stripped of depth and disappears quickly in the mouth."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/3629
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3Fools 2009 Del Rio Red Red (Oregon)
+reviewbody - "This southern Oregon Syrah has red-fruit aromas  with notes of perfume and plastic."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/84377
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/3Fools 2009 Fools Gold Pinot Noir (Willamette Valley)
+reviewbody - "The fruit is hard and shows some earthy flavors of seed and stem  but this serviceable red has been enhanced with spicy  toasty oak flavors."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/92838
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/428 Wines 2004 Boulevard Red (Columbia Valley (WA))
+reviewbody - "Competent winemaking has delivered a pleasant  simple red  which has a little bit of a spicy kick from the Syrah. It could be simply labeled Merlot  and as such it is a straightforward effort  with moderately ripe fruit and a little bit of heat in the finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/117812
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/6 North 2009 Flagstone Cabernet Sauvignon (Napa Valley)
+reviewbody - "This muted  tannic Cabernet spent 20 months in new French oak. The dark black cherry and berry fruit are overwhelmed somewhat by the toast and oak."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/72857
+taster - http://www.vintagewinesellers.com/tasting/reviews/Virginie Boone
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/6 North 2009 Flagstone Cabernet Sauvignon (Napa Valley)
+reviewbody - "This muted  tannic Cabernet spent 20 months in new French oak. The dark black cherry and berry fruit are overwhelmed somewhat by the toast and oak."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/124954
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2005 Una Notte Red (Washington)
+reviewbody - "This is a spicy and fragrant red wine  the 63% Grenache dominating the fruit  and the 37% Syrah filling in the back with peppery tannins. At first the flavors are tight and compressed  a mix of blackberry  cherry  plum and more  along with streaks of espresso. As the acids wind their way down the throat  they take on strong citrus flavors of lemon  pineapple and orange peel."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/6954
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2006 Verhey Vineyard Malbec (Yakima Valley)
+reviewbody - "Young and fresh  this 100% Malbec has tight  spicy  peppery fruit that leads into a surprisingly long finish. It's not tricked up with oak  but the sharp young berry flavors evolve in the mouth and bring on clove  wintergreen and mint  which resonate through a lingering finish. Though the fruit lacks flesh  it doesn't hold back on pure flavor  and promises good things ahead for this new vineyard."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/85848
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2007 Ciel du Cheval Vineyard Syrah (Red Mountain)
+reviewbody - "Lovely delineation here  the berry/cherry fruit framed with coffee and chocolate from a 50/50 mix of French and American oak barrels. The surprise is the addition (via co-fermentation) of 6% Viognier  which stabilizes color and gives a pleasing  floral/citrus lift to the scents and flavors. Good balance and follow through."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110643
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2007 Conner Lee Vineyard Merlot (Columbia Valley (WA))
+reviewbody - "Soft  plump and fruity  this pleasing  pure Washington Merlot pushes black cherry  coffee and baking chocolate flavors into a roundly accessible wine with no rough edges at all. It's a quaffer with cojones."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/73912
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2007 Conner Lee Vineyard Red (Columbia Valley (WA))
+reviewbody - "The wine is easy-drinking  smooth and tasty  really needing no further aging to show its stuff. Polished tannins  round sweet fruit  plenty of baking spices and a chocolaty finish--what's not to like?"
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109817
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2007 Miscela Red (Columbia Valley (WA))
+reviewbody - "A Bordeaux blend dominated by Cabernet Sauvignon  the Miscela starts strong with a complex bouquet of black fruits  toast  smoke  coffee grounds and pencil shavings. The alcohol  listed at 15.4%  does not intrude  yet somehow it seems to mute the complexity. As a result  the finish turns astringent  drying  with a layer of ash drifting over the fruit."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/125745
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Ciel du Cheval Vineyard Syrah (Red Mountain)
+reviewbody - "Tart and astringent  this young wine shows good structure but remains a bit tight. Light red fruits  a streak of citrus  and a strong base of cement and chalk-like minerality  this has persistence and complexity. It needs more cellar time to fully express itself."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/125746
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Conner Lee Vineyard Merlot (Columbia Valley (WA))
+reviewbody - "If the label is to be believed  this pure Merlot  from a relatively cool site in a relatively cool year  tops 16% alcohol. The flavors reflect that; a thick mix of tar  smoke  asphalt  espresso and coffee grounds. Buried in there is some black cherry fruit  but it is definitely the barrel flavors and the alcohol that dominate."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/77735
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Conner Lee Vineyard Red (Columbia Valley (WA))
+reviewbody - "Aged for 22 months in French oak--one third new--this is 67% Cabernet Sauvignon and 33% Merlot. Nota Bene's wines are not shy about high alcohol  but here the fruit stands up well to the oak treatment and shows no sign of over-ripeness. A good spine supports a rich wine with black fruits  balanced acids  and a big streak of espresso."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/62301
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Dineen Vineyard Red (Yakima Valley)
+reviewbody - "Generously fruity  with mixed red and black berries  this Cab Franc/Cabernet Sauvignon blend is subtly layered with earthy flavors lightly hinting at barnyard and leather. Complex and focused  with soft tannins."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/86076
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Miscela Red (Columbia Valley (WA))
+reviewbody - "Grapes from Ciel du Cheval  Champoux and Dineen contribute to this attractive Bordeaux-style blend. Cassis and black cherry fruit are combined in a smooth  supple wine with generous coffee and licorice components."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/63515
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Stillwater Creek Vineyard Mourvedre (Columbia Valley (WA))
+reviewbody - "A vineyard change in 2008 moves the source of the grapes north from Red Mountain to the Royal Slope. Young vines yield rather tight  bare flavors  with sweet grain and vanilla components contributed by the oak barrel (just one barrel was produced)."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/14206
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2008 Una Notte Red (Columbia Valley (WA))
+reviewbody - "Roughly half Grenache  38% Syrah and 10% Mourvedre  this shows intriguing aromas of black fruits  citrus  pine needle and loam. In the mouth there is a somewhat disjointed impression  with raspberry fruit and coffee grounds dominating."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/54553
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Abbinare Red (Columbia Valley (WA))
+reviewbody - "Mostly Merlot  with 36% Cabernet Sauvignon and a splash of Malbec  this Bordeaux-style blend is broad  fruity  chocolaty and accessible. Enjoy it for its youth and immediate charm."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/88349
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Ciel du Cheval Vineyard Red (Red Mountain)
+reviewbody - "This is three-fifths Cabernet Sauvignon  the rest split between Cabernet Franc and Merlot. It's supple and forward  with pretty  plummy fruit and pleasing touches of cinnamon and spice."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/92638
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Ciel du Cheval Vineyard Syrah (Red Mountain)
+reviewbody - "This is pure Syrah from Ciel du Cheval  and is head and shoulders above the winery's Columbia Valley bottling. The sleek  detailed  steely spine that is a vineyard characteristic gives this wine both power and suppleness. The fruit is perfectly ripened and nicely set in firm  ripe  polished tannins."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/96794
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Conner Lee Vineyard Cabernet Sauvignon (Columbia Valley (WA))
+reviewbody - "Conner Lee is one of a small number of Washington vineyards that merits vineyard-designated Cabernet Sauvignon. The wine lacks nothing  and the fruit is firm  sculpted  and varietally correct  with a touch of ripeness around flavors of plum and cherry. Enjoy it young  or cellar it for another five years."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/81034
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Conner Lee Vineyard Merlot (Columbia Valley (WA))
+reviewbody - "Only in Washington can you find pure varietal  single-vineyard Merlot at this price that shows such power and depth. Aged in American oak barrels with French oak stave inserts  it displays plenty of smoky caramel and coconut flavors  but the fruit is there in good proportion. This wine is sure to find plenty of admirers; if only more than just 58 cases had been produced."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/14447
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Conner Lee Vineyard Red (Columbia Valley (WA))
+reviewbody - "Aged for 22 months in 20% new French oak  this blend of 67% Cabernet Sauvignon and 33% Merlot completes a trio of excellent Conner Lee-designates from :Nota Bene in 2009. It's full bodied and streaked with herb  thistle  fresh greens  tart berries  and cocoa nibs. Pair it with a nice  juicy steak!"
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/93947
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Miscela Red (Columbia Valley (WA))
+reviewbody - "Mostly Cabernet Sauvignon  this approachable blend shows pretty cherry  strawberry  a touch of earth and barnyard  and a gently fading finish. Drink young for its freshness."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/69223
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Una Notte Red (Columbia Valley (WA))
+reviewbody - "Half Grenache  40% Syrah and the rest Mourvedre  all sourced from vineyards in the Royal Slope region. Exceptionally fragrant  with appealing plummy  juicy blueberry and cherry fruit. A hint of leather does not detract  though it seems to toughen up the tannins with a touch of bitterness in the finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/71664
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2009 Verhey Vineyard Malbec (Yakima Valley)
+reviewbody - "Both grapey and leathery  this is already a bit dried out and should be consumed near term. It's vineyard designated and pure varietal  aged for 22 months in a single French oak barrel."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/40295
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2010 Conner Lee Vineyard Red Red (Columbia Valley (WA))
+reviewbody - "This blend is made with 75% Cabernet Sauvignon and 25% Merlot--all Conner Lee fruit. Firm and supple  it's loaded with raspberry and cherry fruit that goes deep and stays balanced. One-quarter new French oak was used."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/41712
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2010 Dineen Vineyard Cabernet Sauvignon (Yakima Valley)
+reviewbody - "This is the first Dineen designate from :Nota Bene  and it's worth chasing down. Focused dark purple and black fruits line up--cherry  plum and cassis--with a rich layer of espresso and a lick of graphite following. The 22 months in barrel brings an interesting hint of caramel to a nicely balanced finish."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/15683
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2010 LVdM Vineyard Syrah (Yakima Valley)
+reviewbody - "LVdM is shorthand for Les Vignes de Marcoux  a newer planting near Red Willow. Done in a lovely  savory style  it offers a mix of leaf  herb and earth components  rather than supersweet fruit. Graceful and detailed  it discloses pepper and iron ore minerality."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/40383
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2010 Stillwater Creek Vineyard Syrah (Columbia Valley (WA))
+reviewbody - "For the first time these excellent grapes are being shown in a single-vineyard cuvee. It's a big  tannic  high-octane wine  with smooth  ripe and generous purple fruits. There is plenty of supporting acid  along with rather astringent tannins that carry a leafy note through the finish. Drink now-2019."
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/119356
+taster - http://www.vintagewinesellers.com/tasting/reviews/Paul Gregutt
+reviewtitle - http://www.vintagewinesellers.com/tasting/reviews/:Nota Bene 2010 Una Notte Red (Columbia Valley (WA))
+reviewbody - "The blend is 60% Grenache from the Stone Tree vineyard  the rest Syrah from Stillwater Creek and LVdM vineyards. It's forward  fragrant and fruity  with notes of tanned leather. Bright berry fruit shines through into a finish with moderate tannins."
+

@@ -1,0 +1,400 @@
+wine - http://www.vintagewinesellers.com/tasting/reviews/100364
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Malibu Rocky Oaks
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/100553
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Dark Horse
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/100792
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Korbel
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/100836
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Red Rock
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/100952
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/SOLID
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/10103
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fazeli Cellars
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/101289
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Headbanger
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/101304
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Quady
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/101367
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Barrel Road
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/101505
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Municipal Winemakers
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/10199
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fetzer
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/102279
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/V. Sattui
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/102349
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Montevina
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/102357
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/HandCraft
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/102449
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/The Naked Grape
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/102608
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Oenophile Wines
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/103158
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Grayson
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/103345
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/One
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/103350
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Sean Thackrey
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/103503
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Montevina
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/103507
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Angel's Cup
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/104398
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Bonny Doon
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/104412
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Mancan
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/104450
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Testarossa
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/104747
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/HandCraft
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/104916
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Salvatore Principe
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105081
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Vermeil
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105115
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Block Nine
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105136
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Malibu Rocky Oaks
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105596
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Jamieson Ranch
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/10568
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Woodbridge by Robert Mondavi
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/105817
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/McManis
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/10583
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Hess Select
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/106051
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Ravenswood
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/106115
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Rosa d'Oro
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/106208
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Galatea Effect
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/106268
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fount
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/107484
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Ravenswood
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/107769
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/GEN 7
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108479
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Prospect 772
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108762
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Red Rock
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108778
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Middle Sister
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108831
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Rare
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/108841
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Herzog
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109221
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/flipflop
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109299
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Eristavi Winery
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/10941
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Oak Grove
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109491
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Elyse
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109724
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Ironstone
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109763
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fenestra
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/109908
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Cambridge & Sunset
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110103
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/The Winery SF
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110325
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Dante Robere
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110403
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/HandCraft
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110676
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Dante Robere
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/11075
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Maison Basque
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110785
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Kitchen Sink
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/110992
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Vigil
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/11116
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Tortoise Creek
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/11124
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Borrellie
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/111366
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Shenandoah
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/111788
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Stephen Vincent
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112154
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Avant
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112161
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Capture
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112276
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Oak Grove
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112286
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/CK Mondavi
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112300
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Prospect 772
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112349
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Rusack
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112370
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Plush
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/112535
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Grayson
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113021
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Tuck Beckstoffer
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113043
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Prophecy
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113054
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Vinum
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113086
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Locations
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113136
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fallbrook
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113175
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Korbel
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113467
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Solitary Cellars
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113524
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Francis Coppola
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113627
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Save Me San Francisco
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113788
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Harken
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/113792
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Gnarly Head
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114056
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Big Basin
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114065
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Fetzer
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114147
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Deaver
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114149
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Emerald Hare
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114308
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Sobon Estate
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114669
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Oak Grove
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/114970
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Loken Cellars
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/115262
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Daniel Cohn
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/115277
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Monochrome
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/115569
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Glen Ellen
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/115753
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Spann Vineyards
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/115937
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Row Eleven
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/116494
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Angel's Cup
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/116578
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Casey Flat Ranch
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/116659
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Rock Wall
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/116730
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Cupcake
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/116740
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Francis Ford Coppola
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/117357
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Oak Grove
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+
+wine - http://www.vintagewinesellers.com/tasting/reviews/117363
+winecellar - http://www.vintagewinesellers.com/tasting/reviews/Save Me San Francisco
+region - http://www.vintagewinesellers.com/tasting/reviews/California
+

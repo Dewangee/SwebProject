@@ -1,0 +1,16 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+PREFIX schema: <http://schema.org/>
+SELECT ?wine ?region ?price ?taster ?points ?twitterhandle ?reviewtitle 
+WHERE { 
+	?wine :hasRegion ?region . 
+	?wine :hasPrice ?price . 
+	?wine :receivedReview ?review . 
+	?wine :hasTaster ?taster . 
+	?taster :gaveReview ?review . 
+	?taster :gavePoints ?points . 
+	?taster :hasTwitterHandle ?twitterhandle . 
+	?review :hasReviewTitle ?reviewtitle . 
+	FILTER (?points > 85) . 
+	FILTER (?price > 60) 
+}
+LIMIT 100

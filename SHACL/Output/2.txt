@@ -1,0 +1,11 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+_:node1d9qovg9cx19 a sh:ValidationReport;
+  sh:conforms false;
+  sh:result _:node1d9qovg9cx20 .
+
+_:node1d9qovg9cx20 a sh:ValidationResult;
+  sh:focusNode <http://www.vintagewinesellers.com/tasting/reviews/PaulGregutt>;
+  sh:resultPath <http://www.vintagewinesellers.com/tasting/reviews/hasTwitterHandle>;
+  sh:sourceConstraintComponent sh:PatternConstraintComponent;
+  sh:sourceShape _:node1d9qp121mx1 .

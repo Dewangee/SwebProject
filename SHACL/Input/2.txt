@@ -1,0 +1,11 @@
+@prefix : <http://www.vintagewinesellers.com/tasting/reviews/> . 
+@prefix sh: <http://www.w3.org/ns/shacl#> . 
+:shape2 
+	a sh:NodeShape ; 
+	sh:targetClass :Taster ; 
+	sh:property [ 
+		sh:path :hasTwitterHandle ; 
+		sh:datatype xsd:string ; 
+		sh:pattern "\\B@\\w+" ; 
+		sh:severity sh:Warning ; 
+	] .

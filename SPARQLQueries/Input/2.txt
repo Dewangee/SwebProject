@@ -1,0 +1,8 @@
+PREFIX : <http://www.vintagewinesellers.com/tasting/reviews/> 
+SELECT ?wine ?winecellar ?wineyard 
+WHERE { 
+	?wine :comesFromWinery ?winery . 
+	?winery :hasWineCellar ?winecellar . 
+	?winecellar :hasWineyard ?wineyard .
+}
+LIMIT 100
